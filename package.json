@@ -1,0 +1,5 @@
+{
+  "name":"benefits-backend",
+  "version":"1.0.0",
+  "scripts":{"dev":"node server.js"}
+}
