@@ -1,0 +1,19 @@
+{
+  "name": "benefits-level-2-3-starter",
+  "version": "1.0.0",
+  "description": "Starter backend for Benefits App Level 2 insurance connection and Level 3 prior authorization workflow.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "helmet": "^8.0.0",
+    "uuid": "^11.0.5"
+  }
+}
